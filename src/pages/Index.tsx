@@ -75,7 +75,7 @@ const Index = () => {
             <div className="hidden md:flex items-center space-x-8">
               <Link to="/features" className="text-gray-700 hover:text-blue-600 transition-colors">Features</Link>
               <a href="#pricing" className="text-gray-700 hover:text-blue-600 transition-colors">Pricing</a>
-              <Link to="/contact" className="text-gray-700 hover:text-blue-600 transition-colors">Contact</a>
+              <Link to="/contact" className="text-gray-700 hover:text-blue-600 transition-colors">Contact</Link>
               <button className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-2 rounded-lg hover:shadow-lg transition-all duration-300 transform hover:scale-105">
                 Get Started
               </button>
